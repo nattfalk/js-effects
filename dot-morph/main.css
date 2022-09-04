@@ -1,0 +1,11 @@
+html,
+body {
+}
+
+canvas {
+  background-color: slategrey;
+}
+
+.slidecontainer {
+  margin-bottom: 16px;
+}
